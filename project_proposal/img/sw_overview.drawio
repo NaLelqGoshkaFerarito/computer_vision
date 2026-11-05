@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="NfYsi77ccEGINK5JkJzY">
+    <mxGraphModel dx="451" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JbIUDu2ajt4CzaM5jKa8-19" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="200" as="sourcePoint" />
+            <mxPoint x="400" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JbIUDu2ajt4CzaM5jKa8-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Edge" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JbIUDu2ajt4CzaM5jKa8-25" edge="1" parent="1" source="JbIUDu2ajt4CzaM5jKa8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="JbIUDu2ajt4CzaM5jKa8-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JbIUDu2ajt4CzaM5jKa8-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Image generation" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JbIUDu2ajt4CzaM5jKa8-27" edge="1" parent="1" source="JbIUDu2ajt4CzaM5jKa8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="JbIUDu2ajt4CzaM5jKa8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JbIUDu2ajt4CzaM5jKa8-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Image pre-processing" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JbIUDu2ajt4CzaM5jKa8-29" edge="1" parent="1" source="JbIUDu2ajt4CzaM5jKa8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="JbIUDu2ajt4CzaM5jKa8-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JbIUDu2ajt4CzaM5jKa8-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Plant species and health recognition" vertex="1">
+          <mxGeometry height="40" width="120" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JbIUDu2ajt4CzaM5jKa8-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data visualization" vertex="1">
+          <mxGeometry height="40" width="120" x="120" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

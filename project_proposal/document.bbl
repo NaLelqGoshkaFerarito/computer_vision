@@ -1,0 +1,307 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global/global}
+  \entry{xu2022review}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=XJ}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Jinyuan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Gu},
+         familyi={G\bibinitperiod},
+         given={Baoxing},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=TG}{%
+         family={Tian},
+         familyi={T\bibinitperiod},
+         given={Guangzhao},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{XJ+1}
+    \strng{fullhash}{XJGBTG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{10\bibrangedash 22}
+    \field{title}{Review of agricultural IoT technology}
+    \field{volume}{6}
+    \field{journaltitle}{Artificial intelligence in agriculture}
+    \field{year}{2022}
+  \endentry
+
+  \entry{kalyani2021systematic}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=KY}{%
+         family={Kalyani},
+         familyi={K\bibinitperiod},
+         given={Yogeswaranathan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CR}{%
+         family={Collier},
+         familyi={C\bibinitperiod},
+         given={Rem},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MDPI}%
+    }
+    \strng{namehash}{KYCR1}
+    \strng{fullhash}{KYCR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{17}
+    \field{pages}{5922}
+    \field{title}{A systematic survey on the role of cloud, fog, and edge
+  computing combination in smart agriculture}
+    \field{volume}{21}
+    \field{journaltitle}{Sensors}
+    \field{year}{2021}
+  \endentry
+
+  \entry{demilie2024plant}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=DWB}{%
+         family={Demilie},
+         familyi={D\bibinitperiod},
+         given={Wubetu\bibnamedelima Barud},
+         giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{DWB1}
+    \strng{fullhash}{DWB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{5}
+    \field{title}{Plant disease detection and classification techniques: a
+  comparative study of the performances}
+    \field{volume}{11}
+    \field{journaltitle}{Journal of Big Data}
+    \field{year}{2024}
+  \endentry
+
+  \entry{tiwari2021dense}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=TV}{%
+         family={Tiwari},
+         familyi={T\bibinitperiod},
+         given={Vaibhav},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=JRC}{%
+         family={Joshi},
+         familyi={J\bibinitperiod},
+         given={Rakesh\bibnamedelima Chandra},
+         giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=DMK}{%
+         family={Dutta},
+         familyi={D\bibinitperiod},
+         given={Malay\bibnamedelima Kishore},
+         giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{TV+1}
+    \strng{fullhash}{TVJRCDMK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{101289}
+    \field{title}{Dense convolutional neural networks based multiclass plant
+  disease detection and classification using leaf images}
+    \field{volume}{63}
+    \field{journaltitle}{Ecological Informatics}
+    \field{year}{2021}
+  \endentry
+
+  \entry{thakur2023vgg}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=TPS}{%
+         family={Thakur},
+         familyi={T\bibinitperiod},
+         given={Poornima\bibnamedelima Singh},
+         giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Sheorey},
+         familyi={S\bibinitperiod},
+         given={Tanuja},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=OA}{%
+         family={Ojha},
+         familyi={O\bibinitperiod},
+         given={Aparajita},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{TPS+1}
+    \strng{fullhash}{TPSSTOA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{1}
+    \field{pages}{497\bibrangedash 520}
+    \field{title}{VGG-ICNN: A Lightweight CNN model for crop disease
+  identification}
+    \field{volume}{82}
+    \field{journaltitle}{Multimedia Tools and Applications}
+    \field{year}{2023}
+  \endentry
+
+  \entry{agarwal2020development}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=AM}{%
+         family={Agarwal},
+         familyi={A\bibinitperiod},
+         given={Mohit},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=GSK}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={Suneet\bibnamedelima Kr},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=BKK}{%
+         family={Biswas},
+         familyi={B\bibinitperiod},
+         given={Kanad\bibnamedelima Kishore},
+         giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{AM+1}
+    \strng{fullhash}{AMGSKBKK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{100407}
+    \field{title}{Development of Efficient CNN model for Tomato crop disease
+  identification}
+    \field{volume}{28}
+    \field{journaltitle}{Sustainable Computing: Informatics and Systems}
+    \field{year}{2020}
+  \endentry
+
+  \entry{gong2025edge}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=GR}{%
+         family={Gong},
+         familyi={G\bibinitperiod},
+         given={Ran},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Hongyang},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Gang},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Jiamin},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MDPI}%
+    }
+    \strng{namehash}{GR+1}
+    \strng{fullhash}{GRZHLGHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{17}
+    \field{pages}{5302}
+    \field{title}{Edge computing-enabled smart agriculture: Technical
+  architectures, practical evolution, and bottleneck breakthroughs}
+    \field{volume}{25}
+    \field{journaltitle}{Sensors}
+    \field{year}{2025}
+  \endentry
+
+  \entry{kim2025real}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=KJ}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Joonam},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Giryeon},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=YR}{%
+         family={Yoshitoshi},
+         familyi={Y\bibinitperiod},
+         given={Rena},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TK}{%
+         family={Tokuda},
+         familyi={T\bibinitperiod},
+         given={Kenichi},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MDPI}%
+    }
+    \strng{namehash}{KJ+1}
+    \strng{fullhash}{KJKGYRTK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{15}
+    \field{pages}{4586}
+    \field{title}{Real-time object detection for edge computing-based
+  agricultural automation: A case study comparing the YOLOX and YOLOv12
+  architectures and their performance in potato harvesting systems}
+    \field{volume}{25}
+    \field{journaltitle}{Sensors}
+    \field{year}{2025}
+  \endentry
+\enddatalist
+\endinput
