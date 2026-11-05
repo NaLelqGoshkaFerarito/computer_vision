@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.10.31)  5 NOV 2026 09:51
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.10.31)  5 NOV 2026 15:43
  restricted system commands enabled.
 **document.tex
 (./document.tex
@@ -1875,26 +1875,26 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
  (./document.aux)
 \openout1 = document.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 243.
-LaTeX Font Info:    ... okay on input line 243.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 244.
+LaTeX Font Info:    ... okay on input line 244.
 
 (C:/Users/raboten/AppData/Local/Programs/MiKTeX/tex/latex/translations/dicts/tr
 anslations-basic-dictionary-english.trsl
@@ -1902,7 +1902,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 243.
+or `english'. on input line 244.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
@@ -1940,7 +1940,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 .cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 243.
+Package hyperref Info: Link coloring ON on input line 244.
  (./document.out) (./document.out)
 \@outlinefile=\write9
 
@@ -1985,7 +1985,7 @@ Package hyperref Info: Link coloring ON on input line 243.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 243.
+ on input line 244.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -2007,15 +2007,15 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'document.bbl' found.
  (./document.bbl)
-Package biblatex Info: Reference section=0 on input line 243.
-Package biblatex Info: Reference segment=0 on input line 243.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 245
+Package biblatex Info: Reference section=0 on input line 244.
+Package biblatex Info: Reference segment=0 on input line 244.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 246
 .
 
 (C:/Users/raboten/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 245
+LaTeX Font Info:    Trying to load font information for U+msb on input line 246
 .
 
 (C:/Users/raboten/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
@@ -2051,12 +2051,12 @@ Chapter 4.
 <img/hl_overview.png, id=139, 1333.98375pt x 608.2725pt>
 File: img/hl_overview.png Graphic file (type png)
 <use img/hl_overview.png>
-Package luatex.def Info: img/hl_overview.png  used on input line 303.
+Package luatex.def Info: img/hl_overview.png  used on input line 304.
 (luatex.def)             Requested size: 298.75264pt x 136.22426pt.
 <img/sw_overview.png, id=141, 852.18375pt x 487.8225pt>
 File: img/sw_overview.png Graphic file (type png)
 <use img/sw_overview.png>
-Package luatex.def Info: img/sw_overview.png  used on input line 313.
+Package luatex.def Info: img/sw_overview.png  used on input line 314.
 (luatex.def)             Requested size: 298.75264pt x 171.01584pt.
 [5
 
@@ -2064,7 +2064,7 @@ Package luatex.def Info: img/sw_overview.png  used on input line 313.
 <img/gui.png, id=154, 1219.55624pt x 728.7225pt>
 File: img/gui.png Graphic file (type png)
 <use img/gui.png>
-Package luatex.def Info: img/gui.png  used on input line 323.
+Package luatex.def Info: img/gui.png  used on input line 324.
 (luatex.def)             Requested size: 298.75264pt x 178.51077pt.
  [6<./img/gui.png>]
 Chapter 5.
@@ -2078,13 +2078,13 @@ Chapter 6.
 
 
 ]
-Overfull \hbox (6.79247pt too wide) in paragraph at lines 345--345
+Overfull \hbox (6.79247pt too wide) in paragraph at lines 346--346
 \TU/lmr/m/n/10 crop dis-ease iden-ti-fi-ca-tion,” \TU/lmr/m/it/10 Sus-tain-abl
 e Com-put-ing: In-for-mat-ics and Sys-tems\TU/lmr/m/n/10 , vol. 28, p. 100 407,
  []
 
 
-Overfull \hbox (1.66086pt too wide) in paragraph at lines 345--345
+Overfull \hbox (1.66086pt too wide) in paragraph at lines 346--346
 []\TU/lmr/m/n/10 J. Kim, G. Kim, R. Yoshi-toshi, and K. Tokuda, “  Real-time 
 ob-ject de-tec-tion for edge computing-
  []
@@ -2116,7 +2116,7 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
 Here is how much of LuaTeX's memory you used:
  81630 strings out of 476081
- 100000,4101490 words of node,token memory allocated
+ 100000,3417909 words of node,token memory allocated
  683 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 15 attribute, 84 glue_spec
 , 9 attribute_list, 2 write, 2 pdf_action nodes
@@ -2132,7 +2132,7 @@ iktex/fonts/opentype/public/lm/lmroman10-regular.otf><c:/users/raboten/appdata/l
 ocal/programs/miktex/fonts/opentype/public/lm/lmroman12-regular.otf><c:/users/ra
 boten/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman17-regular.o
 tf>
-Output written on document.pdf (11 pages, 263339 bytes).
+Output written on document.pdf (11 pages, 263823 bytes).
 
 PDF statistics: 275 PDF objects out of 1000 (max. 8388607)
  46 named destinations out of 1000 (max. 1048576)
